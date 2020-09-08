@@ -1,0 +1,69 @@
+Messages:
+  No_Perm: '&cVocê não tem permissão para executar esse comando.'
+  Player_Not_Found: '&cPlayer não encontrado.'
+  Mochila_Not_Found: '&cMochila não encontrada.'
+  Mochila_Need: '&cVocê precisa estar com a mochila na sua mão!'
+  Gived: '&aMochila givada com sucesso!'
+  Inventory_Full: '&cVocê está com o inventário cheio!'
+  No_Space: '&cVocê não tem espaço suficiente no seu inventário.'
+  Sucess: '&aMochila utilizada com sucesso!'
+
+Itens:
+  confirmar:
+    id: '35:5'
+    name: '&aConfirmar'
+    lore:
+      - '&7Clique para confirmar'
+  cancelar:
+    id: '35:14'
+    name: '&cCancelar'
+    lore:
+      - '&7Clique para cancelar'
+
+Invasao:
+  item:
+    id: '407:0'
+    name: '&aMochila de Suprimentos'
+    glow: false
+    lore:
+      - '&fClique com o botão direito para recolher'
+      - '&fequipamentos para finalidades diferentes.'
+      - ' '
+      - '&c* &fTipo: &7Invasão'
+  itens: {}
+
+Protecao:
+  item:
+    id: '408:0'
+    name: '&aMochila de Suprimentos'
+    glow: false
+    lore:
+      - '&fClique com o botão direito para recolher'
+      - '&fequipamentos para finalidades diferentes.'
+      - ' '
+      - '&c* &fTipo: &7Proteção'
+  itens: {}
+
+Ferramentas:
+  item:
+    id: '342:0'
+    name: '&aMochila de Suprimentos'
+    glow: false
+    lore:
+      - '&fClique com o botão direito para recolher'
+      - '&fequipamentos para finalidades diferentes.'
+      - ' '
+      - '&c* &fTipo: &7Ferramentas'
+  itens: {}
+
+Combate:
+  item:
+    id: '343:0'
+    name: '&aMochila de Suprimentos'
+    glow: false
+    lore:
+      - '&fClique com o botão direito para recolher'
+      - '&fequipamentos para finalidades diferentes.'
+      - ' '
+      - '&c* &fTipo: &7Combate'
+  itens: {}

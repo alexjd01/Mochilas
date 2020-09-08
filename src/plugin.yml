@@ -1,0 +1,7 @@
+name: JDMochilas
+main: br.com.jddev.mochilas.Mochilas
+version: 20.08.07
+author: AlexJD
+commands:
+  givemochila:
+  mochila:
